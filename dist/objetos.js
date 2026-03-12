@@ -14,6 +14,9 @@ export const pessoa = {
     nulo: null,
     indefinido: undefined
 };
+export const objeto2 = {
+    chaveA: "Value A",
+    chaveB: "Value B",
+};
+objeto2.chaveC = "Value C";
 objeto.chaveC = "Value C";
-console.log(Mesa);
-console.log(objeto);

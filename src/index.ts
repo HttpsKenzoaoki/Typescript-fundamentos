@@ -1,5 +1,13 @@
-import {objeto, Mesa, pessoa}  from "./objetos.js";
-
+import {objeto, Mesa, pessoa, objeto2,}  from "./objetos.js";
+import { arrayComum, arrayDeNumeros, arrayDeString } from "./variaveis.js";
 console.log(objeto)
 console.log(Mesa)
 console.log(pessoa)
+console.log(objeto2)
+console.log(arrayComum)
+console.log(arrayDeNumeros)
+console.log(arrayDeString)
+
+let ola = "ola"
+
+console.log(ola)
